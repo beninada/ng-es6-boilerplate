@@ -1,4 +1,4 @@
-# AngularJS ES6 Boilerplate
+# AngularJS ES6 Boilerplate [![Build Status](https://travis-ci.org/beninada/ng-es6-boilerplate.svg?branch=master)](https://travis-ci.org/beninada/ng-es6-boilerplate)
 
 Boilerplate for your project using [AngularJS >1.5](https://angularjs.org/), [ES6/2015 syntax](https://github.com/lukehoban/es6features#readme), [Sass](http://sass-lang.com/), and [Webpack2](https://webpack.js.org/).
 
