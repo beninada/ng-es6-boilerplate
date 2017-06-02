@@ -4,7 +4,7 @@ Boilerplate for your project using [AngularJS >1.5](https://angularjs.org/), [ES
 
 ## Download
 
-- [Download the latest release](https://github.com/beninada/ng-es6-boilerplate/archive/v1.0.0.zip)
+- [Download the latest release](https://github.com/beninada/ng-es6-boilerplate/archive/1.0.0.zip)
 - Clone the repo: `git clone https://github.com/beninada/ng-es6-boilerplate.git`
 
 ## Features
