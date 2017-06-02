@@ -1,0 +1,27 @@
+{
+  "name": "ng-es6-boilerplate",
+  "version": "1.0.0",
+  "description": "Boilerplate for your Angular >1.5 project using ES6 syntax, Sass, and Webpack2.",
+  "main": "index.html",
+  "dependencies": {
+    "angular": "^1.6.4"
+  },
+  "scripts": {
+    "build": "./node_modules/.bin/webpack -p --progress --hide-modules --config webpack.config.js",
+    "serve": "./node_modules/.bin/webpack-dev-server"
+  },
+  "author": "Ben Inada",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-core": "^6.24.1",
+    "babel-loader": "^7.0.0",
+    "babel-preset-env": "^1.5.1",
+    "css-loader": "^0.28.4",
+    "html-loader": "^0.4.5",
+    "node-sass": "^4.5.3",
+    "sass-loader": "^6.0.5",
+    "style-loader": "^0.18.1",
+    "webpack": "^2.6.1",
+    "webpack-dev-server": "^2.4.5"
+  }
+}
